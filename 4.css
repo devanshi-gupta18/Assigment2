@@ -1,0 +1,40 @@
+.profile{
+    position: relative;
+    width: 670px;
+    margin: 30px auto;
+}
+.profile-bg{
+    padding: 10px 0px 0px 0px;
+    width: 100%;
+    border-top-right-radius: 20px;
+    border-top-left-radius: 20px;
+}
+.user{
+    position: absolute;
+    height: 120px;
+    width: 120px;
+    border-radius: 50%;
+    left: 270px;
+    bottom: 0;
+    margin-bottom: -40px;
+    border: 7px solid white;
+}
+.container{
+    padding: 10px;
+    justify-content: center;
+    text-align: center;
+}
+.page{
+    background-color: whitesmoke;
+    width: 700px;
+    height: 600px;
+    margin: 30px auto;
+    border-radius: 10px;
+}
+h1{
+    font-size: 35px;
+}
+p{
+    font-size: 25px;
+    color: rgb(70, 70, 70);
+}
